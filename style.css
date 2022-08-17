@@ -1,0 +1,29 @@
+li{
+    list-style: none;
+}
+.footer{
+    background-color: beige;
+}
+div,p,p{
+    font-size: 22px;
+    text-align: center; 
+}
+.navbar nav{
+    
+    width: 50rm;
+    display: flex;
+    justify-content:space-between;
+}
+nav,ul{
+    background-color: aquamarine;
+    display:flex;
+    justify-items: auto;
+}
+.skills{
+    background-color: aqua;color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+div div h2{
+    color: rgb(148, 189, 36);
+}
